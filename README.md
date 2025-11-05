@@ -1,4 +1,7 @@
-# Nerfies
+# Deprecated
+
+for updated Surgical Kinematics website, visit https://aidl-ipal.github.io/SurgicalKinematics/ 
+
 
 This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
 
